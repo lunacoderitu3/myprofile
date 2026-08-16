@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with: **COMMING SOON**
 
-- 👨‍💻 All of my projects are available at:https://ritu-portfolio-tau.vercel.app/
+- 👨‍💻 All of my projects are available at: https://ritu-portfolio-tau.vercel.app/
 
 - 📝 I regularly write articles on: **Coding, AI & Software Development**
 
