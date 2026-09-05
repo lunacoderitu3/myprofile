@@ -11,10 +11,10 @@
 - i always get rude with error syntax
 
 - Ask me about: how to build
-- 
-2026 Ritu Raj (lunacoderitu3).
+ 
+  @ Ritu Raj (lunacoderitu3).
 
- Copying  this repository and its contents without  permission is strictly prohibited.
+ Copying  this repository and its contents  is strictly prohibited.
 .   
 💎
 Thank you 
