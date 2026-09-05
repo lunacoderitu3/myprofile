@@ -1,7 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-
-<h1 align="center">Hi , Ritu Raj </h1>
+<h1 align="left">Hi , Ritu Raj </h1>
 <h3 align="center"> A COMPUTER  CODER </h3>
 
 -  my coding taste: c++
@@ -15,7 +12,7 @@
   @ Ritu Raj (lunacoderitu3).
 
  Copying  this repository and its contents  is strictly prohibited.
-.   
+. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 💎
 Thank you 
 
