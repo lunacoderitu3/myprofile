@@ -1,4 +1,4 @@
-<h1 align="left">Hi , Ritu Raj </h1>
+<h1 align="left">Hi , Ritu  </h1>
 <h3 align="center"> A COMPUTER  CODER </h3>
 
 -  my coding taste: c++
