@@ -9,7 +9,7 @@
 
 - Ask me about: how to build
  
-  @ Ritu Raj (lunacoderitu3).
+  @ Ritu (lunacoderitu3).
 
  Copying  this repository and its contents  is strictly prohibited.
 . [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
